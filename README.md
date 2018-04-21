@@ -35,9 +35,9 @@ git clone https://github.com/killajoe/antergos-rescue-beta.git
 ```
 
 3. Go to the `config` directory you wish to build from.
-- The "official" iso is in the `antergos` folder.
+- The "official" iso is in the `rescue` folder.
 ```
-cd /home/user/antergos-iso/configs/antergos
+cd /home/*user*/antergos-iso/configs/rescue
 ```
 4. Check text configuration file `config` with your favourite text editor.
 Here you can enable/disable support for Nvidia driuver, ZFS, package cache, and choose to build cnchi from github.
