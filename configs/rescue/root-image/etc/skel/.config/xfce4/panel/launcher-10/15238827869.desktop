@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Hardware Informations
+Comment=HardWare LiSter
+Categories=Application;System;X-Red-Hat-Base;X-Fedora;
+Icon=/usr/share/icons/Numix-Square/48/apps/abrt-gui.svg
+Exec=sh /home/rescue/hardware.sh
+Type=Application
+Terminal=false
+Encoding=UTF-8
+X-Desktop-File-Install-Version=0.10
+X-XFCE-Source=file:///usr/share/applications/gtk-lshw.desktop
+Path=
+StartupNotify=false

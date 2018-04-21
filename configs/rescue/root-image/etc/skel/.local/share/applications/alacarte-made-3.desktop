@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=glances is an advanced system monitoring tool
+Terminal=true
+Name=Glances
+Exec=glances
+Type=Application
+Icon=Terminal

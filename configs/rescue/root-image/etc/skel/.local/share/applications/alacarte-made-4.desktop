@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=terminal journal live output
+Terminal=true
+Name=Journal View
+Exec=journalctl -f
+Type=Application
+Icon=Terminal

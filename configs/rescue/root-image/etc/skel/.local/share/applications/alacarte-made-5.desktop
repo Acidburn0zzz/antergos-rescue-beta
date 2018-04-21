@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=setup nvidia settings on the run
+Terminal=false
+Name=Nvidia-Settings
+Exec=nvidia-settings
+Type=Application
+Icon=nvidia-settings

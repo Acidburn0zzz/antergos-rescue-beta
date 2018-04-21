@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Clonezilla is a partition and disk imaging/cloning program
+Terminal=true
+Name=Clonezilla
+Exec=sudo clonezilla
+Type=Application
+Icon=Terminal

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name[de]=Laufwerke
+Name=Disks
+Comment[de]=Verwalten von Laufwerken und Medien
+Comment=Manage Drives and Media
+Keywords[de]=Datenträger;Laufwerk;Festplatte;HDD;CD;CDROM;DVD;Partition;ISO;Abbild;Sicherung;Wiederherstellung;Leistungstest;RAID;LUKS;Verschlüsselung;S.M.A.R.T;SMART;
+Keywords=disk;drive;volume;harddisk;hdd;disc;cdrom;dvd;partition;iso;image;backup;restore;benchmark;raid;luks;encryption;S.M.A.R.T.;smart;
+Exec=gnome-disks
+Icon[de]=gnome-disks
+Icon=gnome-disks
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;X-GNOME-Utilities;
+DBusActivatable=true
+X-XFCE-Source=file:///usr/share/applications/org.gnome.DiskUtility.desktop

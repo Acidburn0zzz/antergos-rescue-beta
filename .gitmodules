@@ -1,0 +1,3 @@
+[submodule "antergos-gfxboot"]
+	path = antergos-gfxboot
+	url = https://github.com/Antergos/antergos-gfxboot.git

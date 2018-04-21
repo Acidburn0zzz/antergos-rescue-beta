@@ -1,0 +1,31 @@
+#!/bin/bash
+set -euo pipefail
+
+ISO_NAME="antergos-xfce"
+ISO_LABEL="ANTERGOS_:rescue"
+
+INSTALL_DIR="arch"
+WORK_DIR="/work"
+OUT_DIR="/out"
+
+# mkarchiso verbose flag
+VERBOSE="-v"
+
+# Tell which nvidia drivers include into the iso
+NOUVEAU_DRIVER="n"
+NVIDIA_DRIVER="y"
+
+# Add ZFS modules
+ADD_ZFS_MODULES="n"
+
+# Keep xz packages in cache
+KEEP_XZ="n"
+
+# Install iso-hotfix-utility from source
+ISO_HOTFIX="y"
+
+# Install Cnchi from git
+CNCHI_GIT="n"
+
+# Pacman configuration file
+PACMAN_CONF="${WORK_DIR}/pacman.conf"

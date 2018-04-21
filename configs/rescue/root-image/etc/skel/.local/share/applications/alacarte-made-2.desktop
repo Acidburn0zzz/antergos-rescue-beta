@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software: certain types of viruses or human error (such as accidentally deleting a Partition Table). Partition table recovery using TestDisk is really easy
+Terminal=true
+Name=TestDisk
+Exec=sudo testdisk 
+Type=Application
+Icon=Terminal
