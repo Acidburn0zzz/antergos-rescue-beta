@@ -110,7 +110,6 @@ os-prober
 pacman
 patch
 pciutils
-pcmciautils
 perl
 pkg-config
 pkgfile
@@ -152,8 +151,7 @@ whois
 wireless_tools
 wpa_actiond
 xfsprogs
-yaourt
-zd1211-firmware
+yay
 clamav
 etcher
 mesa-demos
